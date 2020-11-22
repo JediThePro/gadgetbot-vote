@@ -52,6 +52,7 @@ html,body{
 }
 .btns a:last-child{
   background: linear-gradient(90deg, #0162c8, #55e7fc);
+  width: 350px;
 }
 .btns a > span{
   position: absolute;
